@@ -1,4 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is based on backend headless CMS strapi... 
+
+Need backend repo and set .env => REACT_APP_BACKEND_URL="http://localhost:1337"
 
 ## Available Scripts
 
